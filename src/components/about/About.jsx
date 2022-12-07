@@ -6,12 +6,12 @@ import {VscFolderLibrary} from 'react-icons/vsc';
 
 import DP from '../../assets/dp.jpg';
 import InfoCard from './InfoCard';
+import SectionTitle from '../SectionTitle';
 
 const About = () => {
   return (
     <section id="about">
-      <h5>Get To Know</h5>
-      <h2>About Me</h2>
+      <SectionTitle subtitle="Get To Know" title="About Me"/>
 
       <div className="container about__container">
         <div className="about__me">
