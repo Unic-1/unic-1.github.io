@@ -12,7 +12,7 @@ const links = [{url: 'https://www.linkedin.com/in/satyam-rai-0b4708110/', icon: 
 
 const Header = () => {
   return (
-    <header>
+    <header id='hero'>
       <div className="container header__container">
          <h5>Hello I'm</h5>
          <h1>Satyam Rai</h1>
