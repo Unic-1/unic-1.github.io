@@ -1,4 +1,5 @@
 import React from 'react'
+import './experience.css'
 import SectionTitle from '../SectionTitle'
 import SkillItem from './SkillItem'
 
